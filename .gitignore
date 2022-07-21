@@ -1,6 +1,6 @@
-
 .DS_Store
-
-#Ignore notebook checkpoints 
+#Ignore notebook checkpoints
 .ipynb_checkpoints
 _build
+.Rproj.user
+TOPS-OC5-tools.Rproj
