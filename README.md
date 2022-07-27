@@ -1,40 +1,23 @@
-[![CC BY 4.0][cc-by-shield]][cc-by] 
-# Template for TOPS modules
+[![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
-This template repository provides a base folder structure, and sample files containing some guidance to help us achieve consistency across the different modules of the TOPS OpenCore curriculum.
+# TOPS OpenCore 5: Open Science Tools and Resources
 
-The OpenCore is part of the TOPS mission Area 2: Capacity Sharing. In the first phase, the project is deploying a scalable learning platform, and five learning modules:
+Welcome to the TOPS OpenCore curriculum.
+The OpenCore is part of the TOPS mission Area 2: Capacity Sharing.
+In the first phase, the project is deploying a scalable learning platform, and five learning modules:
 
-1. Ethos of Open Science
-2. Open Data
-3. Open Software
-4. Open Results
-5. Tools and Resources
+1.  Ethos of Open Science
+2.  Open Data
+3.  Open Software
+4.  Open Results
+5.  Tools and Resources
 
-Course curriculum leads will get a link to make a new repository under the GitHub organization [learnopenscience](http://github.com/learnopenscience) with the contents of this template reproduced, and admin permissions granted automatically. 
+The content generated from this repository can be found at [learnopenscience.github.io/TOPS-OC5-tools](https://learnopenscience.github.io/TOPS-OC5-tools).
+If you'd like to contribute, please submit an issue or pull request, using our TOPS Issue Template.
 
-Next actions:
+------------------------------------------------------------------------
 
-- change the repository name to the module identifier as follows: 
-  - TOPS-OC1-ethos
-  - TOPS-OC2-data
-  - TOPS-OC3-code
-  - TOPS-OC4-results
-  - TOPS-OC5-tools
-
-- add contributors (subject matter experts) as collaborators
-- begin replacing the sample content in the lesson files with your own material
-
-You can create more files to add more sections to the module. Use one file per section, beginning with a top heading (using `#`), and add sub-headings (with `##` and `###`) as needed. These will be used automatically to build the table of contents.
-
----
-
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 Prepared by Lorena A. Barba (2022) for the AGU TOPS project.
 
-[![CC BY 4.0][cc-by-image]][cc-by]
-
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
